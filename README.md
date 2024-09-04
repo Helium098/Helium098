@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me code a mesanging 
+- 📫 How to reach me code a mesanging
+  app 
 - 😄 Pronouns: he,him
 - ⚡ Fun fact: im not great at speling
 
